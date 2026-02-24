@@ -10,7 +10,7 @@ Ce projet présente un robot autonome capable de suivre une ligne, d'éviter des
 - **Lanceur de Balles** : Mécanisme motorisé pour l'éjection des balles.
 - **Navigation Intelligente** : Logique de décision basée sur l'environnement (aire de jeu).
 
-## 📊 Étapes du Projet (Checkpoints)
+##  Étapes du Projet (Checkpoints)
 Le projet est structuré en 5 phases de développement :
 1. **Checkpoint 1** : Mouvement de base et calibration des moteurs.
 2. **Checkpoint 2** : Implémentation du suivi de ligne (Line Follower).
@@ -21,7 +21,7 @@ Le projet est structuré en 5 phases de développement :
 ##  Aire de Jeu
 Le robot évolue sur un terrain spécifique défini par les fichiers images inclus :
 <img width="653" height="725" alt="Aire du jeu(1)" src="https://github.com/user-attachments/assets/f1282b9f-49e8-4dd1-ab41-98dae3826ed6" />
- Tracé des lignes et zones de tir.
+
 
 
 
